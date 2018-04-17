@@ -1,4 +1,4 @@
-BitShares Core
+Exc Core
 ==============
 * [Getting Started](#getting-started)
 * [Support](#support)
